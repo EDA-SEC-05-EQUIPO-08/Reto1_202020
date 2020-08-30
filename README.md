@@ -1,6 +1,14 @@
-# Reto1_template
+# Reto1
+## Rafael Córdoba López Código:201630880 
+###
+Este repositorio contiene el reto, carga datos y realiza consultas usando las estructuras de datos implementadas. 
 
-Este repositorio contiene una plantilla del proyecto del reto con el ejemplo de implementación de una aplicación en el esquema Modelo-Vista-Controlador que carga datos y realiza consultas usando las estructuras de datos implementadas. 
+### REQ 1: Encontrar buenas películas	Se busca que un usuario pueda conocer el número de buenas películas que tiene un director.
+### REQ 2 – Crear ranking de películas	Se busca que un usuario pueda crear un ranking de las películas registradas, en el que pueda mencionar el número de películas y los criterios para armar el mismo.
+### REQ 3 – Conocer un director	Se busca que un usuario pueda buscar información sobre el trabajo de un director.
+### REQ 4 – conocer a un actor	Se busca que un usuario pueda buscar información sobre el trabajo de un actor.
+### REQ 5 – Entender un género cinematográfico	Se busca que un usuario pueda aprender sobre las características principales de un género cinematográfico
+### REQ 6 – Crear ranking del género	Se busca que el usuario pueda crear un ranking de un género cinematográficos según criterios que decida.
 
 *	ADT: archivos Python con la definición de los Tipos Abstractos de Datos.
 *	App: los archivos python desarrollados para responder a los retos del curso. Acá se pueden tener todos los archivos python que se necesiten
