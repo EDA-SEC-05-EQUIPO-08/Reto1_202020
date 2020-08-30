@@ -1,5 +1,5 @@
 # Reto1
-## Rafael Córdoba López Código:201630880 
+## Rafael Córdoba López Código:201630880 Correo: rf.cordoba@uniandes.edu.co
 ###
 Este repositorio contiene el reto, carga datos y realiza consultas usando las estructuras de datos implementadas. 
 
