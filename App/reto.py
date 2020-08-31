@@ -177,7 +177,7 @@ def conocer_a_un_director(criteria, column, lst):
         print("Tiempo de ejecución ",t1_stop-t1_start," segundos")
     return res
 
-def conocer_a_un_actor(criteria, lst):
+def conocer_a_un_actor(criteria, lst):  
     """
     Retorna la cantidad de elementos que cumplen con un criterio para una columna dada
     
@@ -496,7 +496,7 @@ def main():
                     print("El genero %s tiene %i peliculas, tiene una calificacion promedio de %f y el director que mas ha contribuido es %s" % (criteria,lt.getElement(res,3),lt.getElement(res,2),lt.getElement(res,1)))
                     print( '-{0:<50} {1:>8} {2:>8}'.format("Titulo","Calificación","Director"))
                     for i in range (1,lt.size(title)+1):
-                        print( '-{0:<50} {1:>8} {2:>8} '.format(lt.getElement(title,i)['title'],lt.getElement(title,i)['average'],lt.getElement(title,i)['director']))
+                        print( '-{0:<50} {1:>8} {2:>8} '.format(lt.getElement(title,i)['title'],lt.getElement(title,i)['vote_average'],lt.getElement(title,i)['director_name']))
 
             elif int(inputs[0])==6: #opcion 6
                  if lista==None or lista['size']==0: #obtener la longitud de la lista
