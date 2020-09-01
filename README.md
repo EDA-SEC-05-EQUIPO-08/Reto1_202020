@@ -1,6 +1,8 @@
 # Reto1
 ## Rafael Córdoba López Código:201630880 Correo: rf.cordoba@uniandes.edu.co
 ###
+## Sebastian Murcia Gómez Código: 202015229 Correo: s.murciag@uniandes.edu.co
+###
 Este repositorio contiene el reto, carga datos y realiza consultas usando las estructuras de datos implementadas. 
 
 ### REQ 1: Encontrar buenas películas	Se busca que un usuario pueda conocer el número de buenas películas que tiene un director.
